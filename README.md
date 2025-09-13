@@ -18,7 +18,7 @@ This project takes a close look at **sales and profit performance** using explor
 
 ### Sales & Profit Distribution Across Markets
 
-- Not all markets perform the same when it comes to sales and profits
+- Not all markets perform the same when it comes to sales and profits.
 - Some regions are revenue powerhouses but profit disasters, while others quietly generate sustainable returns
 - My stacked bar chart visualizations make it crystal clear **which markets punch above their weight in profitability** versus just raw sales volume
 
