@@ -2,6 +2,8 @@
 
 Hey there! I'm **Bhavesh**, an Economics major at **DU**, and this is one of my data analysis projects that I'm genuinely excited to share with you.
 
+## ✨ Check out the **[live interactive dashboard](https://nbviewer.org/github/bhavbooks/Sales-and-Profit-Analysis-using-Python/blob/main/graphics.html)** to explore the visualizations!
+
 ## What This Project Is About
 
 This project takes a close look at **sales and profit performance** using exploratory data analysis techniques. It's a bit like detective work with numbers – I'm hunting down patterns in product demand and trying to understand how revenue and profitability vary across different markets.
